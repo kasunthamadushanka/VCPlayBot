@@ -1,9 +1,8 @@
 {
     "name": "✯SL MUSIC PLAYER BOT✯",
-    "logo": "https://telegra.ph/file/7ffa8d18b9b7f1b51a81e.jpg",
-    "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+    "logo": "https://telegra.ph/file/14ee416eaa2e9053a40f7.jpg",
+    "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by @epusthakalaya_bots.",
     "keywords": ["music", "voicechat", "telegram"],
-    "repository": "https://github.com/QueenArzoo/VCPlayBot",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
